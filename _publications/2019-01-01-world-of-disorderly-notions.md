@@ -5,6 +5,6 @@ permalink: /publications/world-of-disorderly-notions
 date: 2019-01-01
 venue: "University of Virginia Press"
 type: "book"
-paperurl: "https://www.upress.virginia.edu/title/5267/"
+paperurl: "https://www.jstor.org/content/oa_book_monograph/j.ctvfc5690"
 ---
 Shortlisted for the Kenshur Prize for best book in eighteenth-century studies.
