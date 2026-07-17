@@ -8,7 +8,7 @@ author_profile: true
 Here are the essays I've written for various newspapers and magazines. If you're a student, you have my word that, while I'm a political being, like you, with ideas and values and issues I care about, I will always do my best to rigorously support intellectual diversity in the classroom and on campus. I will always treat you with the fairness and respect you deserve as a person and a student, regardless of your political orientation.  
 
 ### 2026
-* ["Social Justice Was the Humanities’ Bid for Relevance"](url_here){:target="_blank"} — *The Chronicle Review*
+* ["Social Justice Was the Humanities’ Bid for Relevance"](https://www.chronicle.com/article/social-justice-was-the-humanities-bid-for-relevance-it-failed){:target="_blank"} — *The Chronicle Review*
 
 ### 2025
 * ["State Universities are Scrambling to Appease the MAGA Regime"](url_here){:target="_blank"} — *The New Republic*
