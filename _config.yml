@@ -23,7 +23,7 @@ repository               : "arhanlon/arhanlon.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.jpg"
   name             : "Aaron R. Hanlon"
   bio              : "NEH / Class of 1940 Distinguished Associate Professor of the Humanities, English"
   employer         : "Colby College"
