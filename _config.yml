@@ -27,7 +27,7 @@ author:
   name             : "Aaron R. Hanlon, DPhil, FRHistS"
   bio              : "NEH / Class of 1940 Distinguished Associate Professor of the Humanities, English"
   employer         : "Colby College"
-  uri              : "https://aaronrhanlon.com"
+  uri              : # "https://aaronrhanlon.com"
   email            : "aaron.hanlon@colby.edu" 
 
   # Academic websites
