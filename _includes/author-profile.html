@@ -176,3 +176,9 @@
     </ul>
   </div>
 </div>
+<script>
+  document.querySelectorAll('.author__urls a').forEach(function(link) {
+    link.setAttribute('target', '_blank');
+    link.setAttribute('rel', 'noopener noreferrer');
+  });
+</script>
