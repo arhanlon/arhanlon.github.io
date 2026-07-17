@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Aaron R. Hanlon, DPhil, FRHistS"
+title                    : "Aaron R. Hanlon"
 title_separator          : "-"
 name                     : &name "Aaron R. Hanlon"
 description              : &description "Aaron R. Hanlon's website"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "arhanlon/arhanlon.github.io"
 author:
   # Biographic information
   avatar           : "headshot.jpg"
-  name             : "Aaron R. Hanlon"
+  name             : "Aaron R. Hanlon, DPhil, FRHistS"
   bio              : "NEH / Class of 1940 Distinguished Associate Professor of the Humanities, English"
   employer         : "Colby College"
   uri              : "https://aaronrhanlon.com"
