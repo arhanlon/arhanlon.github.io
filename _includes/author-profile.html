@@ -176,9 +176,12 @@
     </ul>
   </div>
 </div>
-<script>
-  document.querySelectorAll('.author__urls a').forEach(function(link) {
+<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function() {
+  var sidebarLinks = document.querySelectorAll('.author__urls a');
+  sidebarLinks.forEach(function(link) {
     link.setAttribute('target', '_blank');
     link.setAttribute('rel', 'noopener noreferrer');
   });
+});
 </script>
