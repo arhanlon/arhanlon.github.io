@@ -11,3 +11,4 @@ author_profile: true
   {% if post.type == "book" %}
     {% include archive-single.html %}
   {% endif %}
+{% endfor %}
