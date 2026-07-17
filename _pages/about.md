@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-## General Introduction
+## General Introduction (Scroll down for Academic Introduction)
 
 I’m a professor and occasionally an opinion journalist. My writing on various subjects has appeared in The New York Times, The Atlantic, The New Republic, The Washington Post, and other venues. I also do football (soccer) analysis as a hobby; my Substack focuses on Tottenham Hotspur, the English Premier League club I support with irrational degrees of loyalty and exuberance. My professional research mostly concerns historical questions about the relationship between science and fiction, but I also do computational and quantitative analysis to understand patterns and trends in large amounts of digitized text, with recent work on Large Language Models (LLMs).
 
