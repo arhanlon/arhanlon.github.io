@@ -7,7 +7,7 @@ author_profile: true
 
 ## General Introduction (Scroll down for Academic Introduction)
 
-I’m a professor and occasionally an opinion journalist. My writing on various subjects has appeared in The New York Times, The Atlantic, The New Republic, The Washington Post, and other venues. I also do football (soccer) analysis as a hobby; my Substack focuses on Tottenham Hotspur, the English Premier League club I support with irrational degrees of loyalty and exuberance. My professional research mostly concerns historical questions about the relationship between science and fiction, but I also do computational and quantitative analysis to understand patterns and trends in large amounts of digitized text, with recent work on Large Language Models (LLMs).
+I’m a professor and occasionally an opinion journalist. My writing on various subjects has appeared in _The New York Times_, _The Atlantic_, _The New Republic_, _The Washington Post_, and other venues. I also do football (soccer) analysis as a hobby; my Substack focuses on Tottenham Hotspur, the English Premier League club I support with irrational degrees of loyalty and exuberance. My professional research mostly concerns historical questions about the relationship between science and fiction, but I also do computational and quantitative analysis to understand patterns and trends in large amounts of digitized text, with recent work on Large Language Models (LLMs).
 
 I live and work in Maine, USA, when I’m teaching, but frequently travel to London and Cambridge, UK for long stretches of time between terms. I lived in England full-time for several years as a doctoral student at Oxford before moving to Galway, Ireland, then back to the US. I returned to England full-time in 2018-19 as a visiting scholar in History and Philosophy of Science at Cambridge. I went back to Cambridge this past year, on sabbatical, and completed a graduate degree in Digital Humanities, with a focus on computational analysis, NLP, and LLM applications.
 
@@ -17,7 +17,7 @@ I was an NCAA Division I All-Conference middle-distance runner in college and on
 
 In case you’re interested in my academic research and teaching, I say more about that below:
 
-I'm the NEH / Class of 1940 Distinguished Associate Professor of the Humanities at Colby College, affiliated faculty in the Science, Technology, and Society (STS) Department, and a Fellow of the Royal Historical Society. 
+I'm the NEH / Class of 1940 Distinguished Associate Professor of the Humanities and English at Colby College, affiliated faculty in the Science, Technology, and Society (STS) Department, and a Fellow of the Royal Historical Society. 
 
 I’m based in the English Department at Colby and chaired the STS Department for four years. My research and teaching fall primarily in the category of what Lorraine Daston and Mary Poovey call ‘historical epistemology,’ which Ian Hacking neatly describes in The Emergence of Probability as understanding ‘the forgotten formation and evolution of core ideas that run through our notions of knowledge and argument: truth, objectivity, evidence, information, probability, proof, experience, experiment, wonder, curiosity, ignorance, classification.’ I’ve also started building a research program in the computational and quantitative study of literature, having recently completed an MPhil degree in Digital Humanities, with a focus on the computational and quantitative study of language, literature, and history.
 
