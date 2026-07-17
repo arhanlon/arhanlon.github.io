@@ -3,3 +3,12 @@
 {% include analytics.html %}
 
 {% include comments-providers/scripts.html %}
+<script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function() {
+    var links = document.querySelectorAll('.author__urls a');
+    links.forEach(function(link) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    });
+  });
+</script>
