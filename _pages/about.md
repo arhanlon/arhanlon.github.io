@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: single
 title: "About"
 permalink: /
 author_profile: true
