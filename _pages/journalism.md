@@ -78,40 +78,40 @@ Here are the essays I've written for various newspapers and magazines. If you'r
 
 ### 2016
 * ["The Ongoing Ride of Don Quixote in American Politics"](https://lareviewofbooks.org/article/oh-sancho-ongoing-ride-don-quixote-american-politics/){:target="_blank"} — *The LA Review of Books*
-* ["The Myth of the Liberal Echo Chamber on Campus"](url_here){:target="_blank"} — *The New Republic*
-* ["How to Fix Our Toxic Debate About Political Correctness"](url_here){:target="_blank"} — *The New Republic*
-* ["Are Ph.D. Students Irrational?"](url_here){:target="_blank"} — *The LA Review of Books*
-* ["I’m Not a Student, I just Look Like One"](url_here){:target="_blank"} — *The Chronicle of Higher Education*
-* ["The Free Speech Charade"](url_here){:target="_blank"} — *The New Republic*
-* ["The Republican Establishment’s Donald Trump Delusions"](url_here){:target="_blank"} — *Salon*
-* ["What the P.C. Left is Doing Wrong in Language Debates"](url_here){:target="_blank"} — *The New Republic*
-* ["Violence, Fascism, and the Real Assault on Free Speech"](url_here){:target="_blank"} — *Salon*
-* ["The Big Millennial P.C. Lie and the Myth of Campus Intolerance"](url_here){:target="_blank"} — *Salon*
-* ["How the Microscope Redefined the Fact"](url_here){:target="_blank"} — *The Atlantic*
-* ["College Students Aren’t ‘Cuddly Bunnies’"](url_here){:target="_blank"} — *The New Republic*
-* ["Paul Ryan, Gun Control, and the Politics of Self-Interest"](url_here){:target="_blank"} — *Salon*
+* ["The Myth of the Liberal Echo Chamber on Campus"](https://newrepublic.com/article/139474/myth-liberal-echo-chamber-campus){:target="_blank"} — *The New Republic*
+* ["How to Fix Our Toxic Debate About Political Correctness"](https://newrepublic.com/article/136600/fix-toxic-debate-political-correctness-campus){:target="_blank"} — *The New Republic*
+* ["Are Ph.D. Students Irrational?"](https://lareviewofbooks.org/article/phd-students-irrational/){:target="_blank"} — *The LA Review of Books*
+* ["I’m Not a Student, I just Look Like One"](https://www.chronicle.com/article/im-not-a-student-i-just-look-like-one/){:target="_blank"} — *The Chronicle of Higher Education*
+* ["The Free Speech Charade"](https://newrepublic.com/article/133531/free-speech-charade){:target="_blank"} — *The New Republic*
+* ["The Republican Establishment’s Donald Trump Delusions"](https://www.salon.com/2016/05/14/you_make_it_you_bought_it_the_republican_establishments_dangerous_donald_trump_delusions/){:target="_blank"} — *Salon*
+* ["What the P.C. Left is Doing Wrong in Language Debates"](https://newrepublic.com/article/133039/pc-left-wrong-language-debates){:target="_blank"} — *The New Republic*
+* ["Violence, Fascism, and the Real Assault on Free Speech"](https://www.salon.com/2016/03/20/trumps_jackbooted_thugs_against_political_correctness_violence_fascism_and_the_real_assault_on_free_speech/){:target="_blank"} — *Salon*
+* ["The Big Millennial P.C. Lie and the Myth of Campus Intolerance"](https://www.salon.com/2016/02/28/the_big_millennial_p_c_lie_why_conservatives_and_the_media_keep_pushing_the_myth_of_campus_intolerance/){:target="_blank"} — *Salon*
+* ["How the Microscope Redefined the Fact"](https://www.theatlantic.com/technology/archive/2016/02/microscope-history-data/462234/){:target="_blank"} — *The Atlantic*
+* ["College Students Aren’t ‘Cuddly Bunnies’"](https://newrepublic.com/article/128193/college-students-arent-cuddly-bunnies){:target="_blank"} — *The New Republic*
+* ["Paul Ryan, Gun Control, and the Politics of Self-Interest"](https://www.salon.com/2016/01/11/ayn_rand_will_destroy_the_gop_paul_ryan_gun_control_and_the_brazen_cynical_politics_of_self_interest/){:target="_blank"} — *Salon*
 
 ### 2015
-* ["Oberlin’s Food Isn’t Cultural Appropriation"](url_here){:target="_blank"} — *The New Republic*
-* ["Trump Sets the First Amendment on Fire"](url_here){:target="_blank"} — *Salon*
-* ["America’s Real-Life Dystopia"](url_here){:target="_blank"} — *Salon*
-* ["Ben Carson Wants a Safe Space"](url_here){:target="_blank"} — *Salon*
-* ["Carson and O’Reilly are the Real Intolerant Speech Police"](url_here){:target="_blank"} — *Salon*
-* ["Cucks, Wimps, and Feminazis"](url_here){:target="_blank"} — *Salon*
-* ["Shkreli and Trump Deserve Each Other"](url_here){:target="_blank"} — *Salon*
-* ["Note to ‘A Socialist at Liberty U’"](url_here){:target="_blank"} — *The Atlantic*
-* ["The New Right-Wing College Lie"](url_here){:target="_blank"} — *Salon*
-* ["The Trigger Warning Myth"](url_here){:target="_blank"} — *The New Republic*
-* ["Fact-Checking Bill O’Reilly"](url_here){:target="_blank"} — *Salon*
-* ["The Right’s Terrified to Talk About Race"](url_here){:target="_blank"} — *Salon*
-* ["Bigoted Caitlyn Jenner Coverage Says it All About Today’s Hypocritical Right"](url_here){:target="_blank"} — *Salon*
-* ["Students Need Trigger Warnings; Professors Do Too"](url_here){:target="_blank"} — *The New Republic*
-* ["Scott Walker’s Destructive War on Education"](url_here){:target="_blank"} — *Salon*
-* ["Racism’s Sinister Word Games"](url_here){:target="_blank"} — *Salon*
-* ["Jon Stewart’s Brilliant Obscenity"](url_here){:target="_blank"} — *Salon*
+* ["Oberlin’s Food Isn’t Cultural Appropriation"](https://newrepublic.com/article/126562/oberlins-food-isnt-cultural-appropriation-doesnt-mean-students-wrong){:target="_blank"} — *The New Republic*
+* ["Trump Sets the First Amendment on Fire"](https://www.salon.com/2015/12/14/who_needs_a_constitution_anyway_donald_trump_sets_the_first_amendment_on_fire/){:target="_blank"} — *Salon*
+* ["America’s Real-Life Dystopia"](https://www.salon.com/2015/12/02/is_wal_mart_more_like_orwells_1984_huxleys_brave_new_world_or_kim_jong_uns_north_korea/){:target="_blank"} — *Salon*
+* ["Ben Carson Wants a Safe Space"](https://www.salon.com/2015/11/14/ben_carson_wants_a_safe_space_the_republicans_are_coddled_and_politically_correct/){:target="_blank"} — *Salon*
+* ["Carson and O’Reilly are the Real Intolerant Speech Police"](https://www.salon.com/2015/11/01/theyre_the_politically_correct_ben_carson_and_bill_oreilly_are_the_real_intolerant_speech_police/){:target="_blank"} — *Salon*
+* ["Cucks, Wimps, and Feminazis"](https://www.salon.com/2015/10/20/cucks_wimps_and_feminazis_trump_carson_and_anti_pc_crowd_bed_down_with_white_supremacists_women_haters_race_baiters/){:target="_blank"} — *Salon*
+* ["Shkreli and Trump Deserve Each Other"](https://www.salon.com/2015/09/23/morons_dumb_idiots_martin_shkreli_and_donald_trump_deserve_each_other/){:target="_blank"} — *Salon*
+* ["Note to ‘A Socialist at Liberty U’"](https://www.theatlantic.com/notes/2015/09/a-socialist-at-liberty-university-contd/405556/){:target="_blank"} — *The Atlantic*
+* ["The New Right-Wing College Lie"](https://www.salon.com/2015/09/12/the_new_right_wing_college_lie_students_become_liberal_on_their_own_no_one_is_indoctrinating_them_on_campus/){:target="_blank"} — *Salon*
+* ["The Trigger Warning Myth"](https://newrepublic.com/article/122543/trigger-warning-myth){:target="_blank"} — *The New Republic*
+* ["Fact-Checking Bill O’Reilly"](https://www.salon.com/2015/07/17/fact_checking_bill_oreillys_dumb_hateful_lies_fox_news_propaganda_breaks_new_ground/){:target="_blank"} — *Salon*
+* ["The Right’s Terrified to Talk About Race"](https://www.salon.com/2015/06/24/the_rights_terrified_to_talk_about_race_lets_call_it_the_fox_news_denial_syndrome/){:target="_blank"} — *Salon*
+* ["Bigoted Caitlyn Jenner Coverage Says it All About Today’s Hypocritical Right"](https://www.salon.com/2015/06/02/fox_news_knows_no_shame_again_hateful_bigoted_caitlyn_jenner_coverage_says_it_all_about_todays_hypocritical_right/){:target="_blank"} — *Salon*
+* ["Students Need Trigger Warnings; Professors Do Too"](https://newrepublic.com/article/121820/my-students-need-trigger-warnings-and-professors-do-too){:target="_blank"} — *The New Republic*
+* ["Scott Walker’s Destructive War on Education"](https://www.salon.com/2015/04/23/scott_walkers_destructive_war_on_education_lets_judge_tea_party_politicians_by_the_same_dumb_standards/){:target="_blank"} — *Salon*
+* ["Racism’s Sinister Word Games"](https://www.salon.com/2015/03/20/racisms_sinister_word_games_what_a_white_supremacist_talking_point_tells_us_about_modern_politics/){:target="_blank"} — *Salon*
+* ["Jon Stewart’s Brilliant Obscenity"](https://www.salon.com/2015/01/23/jon_stewarts_brilliant_f_you_why_sputtering_obscenity_is_sometimes_the_best_response_to_fox_news_insanity/){:target="_blank"} — *Salon*
 
 ### 2014
-* ["Major in John Oliver and Neil deGrasse Tyson"](url_here){:target="_blank"} — *Salon*
-* ["Millennials Aren’t Apathetic; Their Vote is Suppressed"](url_here){:target="_blank"} — *Salon*
-* ["Ferguson and Our Dangerous Delusions on Race and Democracy"](url_here){:target="_blank"} — *Salon*
-* ["How White People Should Talk About White Privilege"](url_here){:target="_blank"} — *Salon*
+* ["Major in John Oliver and Neil deGrasse Tyson"](https://www.salon.com/2014/11/15/hey_college_kids_major_in_john_oliver_and_neil_degrasse_tyson/){:target="_blank"} — *Salon*
+* ["Millennials Aren’t Apathetic; Their Vote is Suppressed"](https://www.salon.com/2014/11/08/millennials_arent_apathetic_their_vote_is_suppressed/){:target="_blank"} — *Salon*
+* ["Ferguson and Our Dangerous Delusions on Race and Democracy"](https://www.salon.com/2014/08/16/this_has_always_been_america_ferguson_and_our_dangerous_delusions_on_race_and_democracy/){:target="_blank"} — *Salon*
+* ["How White People Should Talk About White Privilege"](https://www.salon.com/2014/05/07/how_whites_should_talk_about_white_privilege_hint_its_not_like_tal_fortgang/){:target="_blank"} — *Salon*
