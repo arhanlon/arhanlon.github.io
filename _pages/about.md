@@ -15,7 +15,7 @@ I was an NCAA Division I All-Conference middle-distance runner in college and on
 
 ## Academic Introduction
 
-I'm the NEH / Class of 1940 Distinguished Associate Professor of the Humanities and English at Colby College, affiliated faculty in the Science, Technology, and Society (STS) Department, and a Fellow of the Royal Historical Society. 
+I'm the NEH / Class of 1940 Distinguished Associate Professor of the Humanities and English at Colby College, co-chair of the English Department, affiliated faculty in the Science, Technology, and Society (STS) Department, and a Fellow of the Royal Historical Society. 
 
 I’m based in the [English Department](https://www.colby.edu/academics/departments-and-programs/english/){:target="_blank"} at Colby and chaired the [STS Department](https://www.colby.edu/academics/departments-and-programs/science-technology-and-society/){:target="_blank"} for four years. My research and teaching mainly concern what Lorraine Daston and Mary Poovey call "historical epistemology," which Ian Hacking neatly describes in [_The Emergence of Probability_](https://www.cambridge.org/core/books/emergence-of-probability/9852017A380C63DA30886D25B80336A7){:target="_blank"} as understanding "the forgotten formation and evolution of core ideas that run through our notions of knowledge and argument: truth, objectivity, evidence, information, probability, proof, experience, experiment, wonder, curiosity, ignorance, classification." 
 
